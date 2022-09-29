@@ -1,1 +1,1 @@
-# Student-Management-SQL-
+# Student-Management-Python-SQL-
